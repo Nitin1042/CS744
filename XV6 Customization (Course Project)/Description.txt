@@ -1,0 +1,3 @@
+Implemented custom system calls (spawn, getvasize, va2pa) in XV6 to enable user-level process creation, virtual memory introspection, and virtual-to-physical address translation.
+
+Designed and integrated page fault handling within the trap handler; implemented lazy memory allocation by deferring physical page mapping until first access.
