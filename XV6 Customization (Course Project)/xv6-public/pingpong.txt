@@ -1,0 +1,5 @@
+Hello this is the first occurence of ping.
+You must have used ping command in linux.
+A process could use the ping system call to check network connectivity.
+In the xv6 os, system calls act as the bridge between user-level application and kernel.
+A process could use a custom ping system call to send special messages between processes.
